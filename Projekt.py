@@ -1,6 +1,4 @@
-"""Jonathan Schiött 2020-12-03
-dropbox link with all pictures and files:
-https://www.dropbox.com/sh/8k9e0ssc2c8b6fh/AAAcgUIFCH7kmTtRIXhWLkWWa?dl=0"""
+"""Jonathan Schiött 2020-12-03"""
 
 
 
